@@ -1,0 +1,9 @@
+{
+  "name": "haxe-debugger-source-map-experiment",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "source-map-support": "^0.5.12"
+  }
+}

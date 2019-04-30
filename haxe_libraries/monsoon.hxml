@@ -1,0 +1,10 @@
+-D monsoon=0.5.0
+# @install: lix --silent download "git:git@github.com:benmerckx/monsoon.git#d32688f599e90d9681c4c03e251f7081809e0a96" into monsoon/0.5.0/git/d32688f599e90d9681c4c03e251f7081809e0a96
+-lib tink_url
+-lib tink_http
+-lib tink_macro
+-lib asys
+-lib mime
+-lib path2ereg
+-lib http-status
+-cp ${HAXE_LIBCACHE}/monsoon/0.5.0/git/d32688f599e90d9681c4c03e251f7081809e0a96/src

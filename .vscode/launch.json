@@ -1,0 +1,26 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "NodeJS",
+      "program": "${workspaceFolder}/nodejs.js"
+    },
+    {
+      // Be sure to manually have the app running! (./server.sh). 
+      // After the debugger launches, you need to REFRESH for the breakpoints to ATTACH!
+      "type": "chrome",
+      "request": "launch",
+      "name": "Client (chrome protocol)",
+      "webRoot": "${workspaceFolder}",
+      "sourceMaps": true,
+      "url": "http://localhost:3000", // or whatever port you use
+      "trace": true,
+    }
+  ]
+}

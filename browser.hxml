@@ -1,0 +1,6 @@
+-cp .
+-main Main
+-js browser.js
+-debug
+-D source-map-content
+-D clientjs

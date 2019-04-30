@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"nodejs.js",
+"sourceRoot":"file:///",
+"sources":["/home/fullofcaffeine/workspace/code/haxe-debugger-source-map-experiment/Main.hx","/home/fullofcaffeine/haxe/versions/4.0.0-rc.2/std/js/Boot.hx"],
+"names":[],
+"mappings":";;;;;;;;;8BAEE;AAAA,aAES;AAFT;AAAA;;YAOA,WAA8B;AAAA,CAO5B,QAAgB;AAPY,CAQ5B,8BAA8B,QAAgB;AARlB,CAc5B,cAAc;AAdc,CAe5B,aAAa;AAfe,CAgB5B;AAhB4B,CAmB5B,MAAO;AAnBqB;;0BCoB/B,cAAiC;AAAA,CAChC;AADgC,CAEhC,WAAW;AAFqB,CAGhC,EAAI,CAAM,yBAA6B;AAAA,EAAM,wBAA4B,KAAM;AAAxC;AAHP;;;;AAWhC,sBAAyB,AAAM,8BAAsB,UAAW,QAAM,WAAM;AAAA,QAAM,OAAQ;AAAd;;;;"
+}
